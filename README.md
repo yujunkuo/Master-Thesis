@@ -1,5 +1,7 @@
 # Predict Before You Speak: Sentiment Forecasting in Dialogue with Multi-task and Transfer Learning
 
+🔗 **Thesis Link:** https://tdr.lib.ntu.edu.tw/handle/123456789/91309
+
 ## Abstract
 **Affective** states profoundly influence human behaviors, motivations, and decisions, making them a crucial factor to consider in dialogue systems aimed at simulating or predicting human reactions. To improve the conversational experience and user satisfaction in dialogue systems, prediction of users’ affective states is essential. Existing research primarily focuses on recognizing affective states within dialogue history, neglecting the proactive forecasting of upcoming affective states. However, the ability to forecast upcoming affective states proactively can enable dialogue systems to adjust responses in advance.
 
